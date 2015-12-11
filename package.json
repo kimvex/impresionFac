@@ -1,0 +1,24 @@
+{
+  "name": "terminal",
+  "version": "0.0.1",
+  "description": "Es una prueba para observar si puedo usar una terminal desde nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin de la cruz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "html-pdf": "^1.4.0",
+    "ip": "^1.1.0",
+    "moment": "^2.10.6",
+    "multer": "^1.1.0",
+    "mysql": "^2.9.0",
+    "socket.io": "^1.3.7",
+    "swig": "^1.4.2"
+  }
+}
